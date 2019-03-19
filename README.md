@@ -1,11 +1,12 @@
 # QLColorGradientDemo
 
 
-## 利用CAGradientLayer来实现view的渐变色
+### 利用CAGradientLayer来实现view的渐变色
 
 > 使用方便，直接使用即可。
 
-###效果图
+
+### 效果图
 
 
  ![image](https://github.com/QiuFairy/QLColorGradientDemo/raw/master/image1.png)
