@@ -7,6 +7,7 @@
 
 ###效果图
 
+
  ![image](https://github.com/QiuFairy/QLColorGradientDemo/raw/master/image1.png)
 
 ```
